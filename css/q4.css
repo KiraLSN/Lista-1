@@ -18,5 +18,7 @@ p {
 }
 
 .autor {
-    text-align: right;
+    vertical-align: bottom;
+    
+    text-align: end;
 }
