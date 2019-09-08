@@ -1,0 +1,14 @@
+.borda {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
