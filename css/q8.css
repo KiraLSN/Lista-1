@@ -1,0 +1,50 @@
+.borda {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.autor {
+    vertical-align: bottom;
+
+    text-align: end;
+}
+
+table {
+    width: 200px;
+    border: 10px solid gray;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-color: gray;
+
+}
+
+thead {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+td {
+
+    border: 1px solid black;
+    border-color: black;
+    word-wrap: break-word;
+}
+
+caption {
+    text-align: left;
+    margin-top: 15px;
+}
